@@ -1,12 +1,12 @@
 /*
-=============== 
+===============
 Fonts
 ===============
 */
 /* @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap"); */
-
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap");
 /*
-=============== 
+===============
 Variables
 ===============
 */
@@ -38,8 +38,10 @@ Variables
   --clr-red-dark: hsl(360, 67%, 44%);
   --clr-red-light: hsl(360, 71%, 66%);
   --clr-white: #fff;
-  --ff-primary: "Roboto", sans-serif;
-  --ff-secondary: "Open Sans", sans-serif;
+  /* --ff-primary: "Roboto", sans-serif; */
+  --ff-primary: "Comfortaa", cursive;
+  --ff-secondary: "Comfortaa", cursive;
+
   --transition: all 0.3s linear;
   --spacing: 0.2rem;
   --radius: 0.25rem;
@@ -49,7 +51,7 @@ Variables
   --fixed-width: 700px;
 }
 /*
-=============== 
+===============
 Global Styles
 ===============
 */
@@ -203,7 +205,7 @@ p {
   color: var(--clr-primary-5);
 }
 /*
-=============== 
+===============
 Navbar
 ===============
 */
@@ -282,7 +284,7 @@ Navbar
   }
 }
 /*
-=============== 
+===============
 Sidebar
 ===============
 */
@@ -338,7 +340,7 @@ Sidebar
   }
 }
 /*
-=============== 
+===============
 Sidebar Animation
 ===============
 */
@@ -401,7 +403,7 @@ Sidebar Animation
 }
 
 /*
-=============== 
+===============
 Hero
 ===============
 */
@@ -482,7 +484,7 @@ Hero
 }
 
 /*
-=============== 
+===============
 Services
 ===============
 */
@@ -535,7 +537,7 @@ Services
 }
 
 /*
-=============== 
+===============
 Jobs
 ===============
 */
@@ -625,7 +627,7 @@ Jobs
 }
 
 /*
-=============== 
+===============
 Projects
 ===============
 */
@@ -747,7 +749,7 @@ Projects
 }
 
 /*
-=============== 
+===============
 Blog
 ===============
 */

@@ -7,11 +7,16 @@ import Jobs from "../components/Jobs"
 import Projects from "../components/Projects"
 import Blogs from "../components/Blogs"
 
-export default () => {
+export default ({ data }) => {
+  const { allStrapiProjects: {
+    nodes: projects,
+  }} = data;
+
   return (
     <Layout>
       <Hero />
       <Services />
+      <Projects projects={projects} title="featured projects" showLink />
     </Layout>
   )
 }

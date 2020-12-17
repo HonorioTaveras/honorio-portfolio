@@ -1,22 +1,22 @@
 import React from "react"
-import { FaCode, FaSketch, FaAndroid } from "react-icons/fa"
+import { FaReact, FaDatabase, FaDev } from "react-icons/fa"
 export default [
   {
     id: 1,
-    icon: <FaCode className="service-icon" />,
-    title: "web development",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    icon: <FaReact className="service-icon" />,
+    title: "frontend",
+    text: `I love creating intuitive and modern UI's with JavaScript and frontend libraries/frameworks like React. I have experience with many of the tools used in the React ecosystem such as Hooks, dynamic API integration, authentication best practices, Redux state management, GraphQL for more streamline queries, React Router, Styled Components, and component/state structuring for the fastest and most efficient UI/UX achievable.`,
   },
   {
     id: 2,
-    icon: <FaSketch className="service-icon" />,
-    title: "web design",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    icon: <FaDatabase className="service-icon" />,
+    title: "backend",
+    text: `I am comfortable designing and architecting clean, maintainable, and scalable back-ends using express/node.js to support high level web traffic using relational or non-relational databases like PostgresQL, MySQL, or MongoDB. I am able to containerize with Docker and deploy applications with AWS and I create the tests in order to ensure code integrity by using Jest and Enzyme or Mocha and Chai.`,
   },
   {
     id: 3,
-    icon: <FaAndroid className="service-icon" />,
-    title: "app design",
-    text: `I'm baby meditation tofu chillwave, distillery messenger bag thundercats chicharrones kale chips gochujang. Banh mi direct trade marfa salvia.`,
+    icon: <FaDev className="service-icon" />,
+    title: "best practices",
+    text: `I have knowledge of professional software engineering practices & best practices for full software development life cycle, including coding standards, code reviews, source control management, test-driven development, continuous deployments, and agile methodologies`,
   },
 ]

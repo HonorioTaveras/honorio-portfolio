@@ -12,11 +12,6 @@ const data = [
     icon: <FaLinkedin className="social-icon"></FaLinkedin>,
     url: "https://www.linkedin.com/in/honoriot/",
   },
-  // {
-  //   id: 1,
-  //   icon: <FaFacebookSquare className="social-icon"></FaFacebookSquare>,
-  //   url: "https://www.facebook.com/honorio.taveras",
-  // },
   {
     id: 2,
     icon: <FaGithubSquare className="social-icon"></FaGithubSquare>,
@@ -27,11 +22,6 @@ const data = [
     icon: <FaInstagramSquare className="social-icon"></FaInstagramSquare>,
     url: "https://www.instagram.com/honoriosarevat/",
   },
-  // {
-  //   id: 4,
-  //   icon: <FaBehanceSquare className="social-icon"></FaBehanceSquare>,
-  //   url: "https://www.twitter.com",
-  // },
   {
     id: 4,
     icon: <FaTwitterSquare className="social-icon"></FaTwitterSquare>,

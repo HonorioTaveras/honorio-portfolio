@@ -84,8 +84,8 @@ Variables
   --clr-red-light: hsl(360, 71%, 66%); */
 
   --clr-white: #fff;
-  --ff-primary: "Comfortaa", cursive;
-  --ff-secondary: "Montserrat Alternates", sans-serif;
+  --ff-secondary: "Comfortaa", cursive;
+  --ff-primary: "Montserrat Alternates", sans-serif;
 
   --transition: all 0.3s linear;
   --spacing: 0.2rem;

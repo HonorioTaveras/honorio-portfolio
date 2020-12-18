@@ -1,25 +1,29 @@
 import React from "react"
 import {
-  FaFacebookSquare,
+  FaLinkedin,
   FaGithubSquare,
   FaInstagramSquare,
-  FaBehanceSquare,
   FaTwitterSquare,
 } from "react-icons/fa"
 
 const data = [
   {
     id: 1,
-    icon: <FaGithubSquare className="social-icon"></FaGithubSquare>,
-    url: "https://github.com/HonorioTaveras",
+    icon: <FaLinkedin className="social-icon"></FaLinkedin>,
+    url: "https://www.linkedin.com/in/honoriot/",
   },
   // {
-  //   id: 2,
+  //   id: 1,
   //   icon: <FaFacebookSquare className="social-icon"></FaFacebookSquare>,
   //   url: "https://www.facebook.com/honorio.taveras",
   // },
   {
     id: 2,
+    icon: <FaGithubSquare className="social-icon"></FaGithubSquare>,
+    url: "https://github.com/HonorioTaveras",
+  },
+  {
+    id: 3,
     icon: <FaInstagramSquare className="social-icon"></FaInstagramSquare>,
     url: "https://www.instagram.com/honoriosarevat/",
   },
@@ -29,7 +33,7 @@ const data = [
   //   url: "https://www.twitter.com",
   // },
   {
-    id: 3,
+    id: 4,
     icon: <FaTwitterSquare className="social-icon"></FaTwitterSquare>,
     url: "https://twitter.com/TaverasHonorio",
   },

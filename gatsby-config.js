@@ -10,7 +10,7 @@ module.exports = {
     description: "This is Honorio Taveras Portfolio Site",
     author: "@honoriotaveras",
     twitterUsername: "@TaverasHonorio",
-    image: "/twitter-img.png,
+    image: "/twitter-img.png",
     siteUrl: "https://honoriotaveras.com",
   },
   plugins: [

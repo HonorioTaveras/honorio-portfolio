@@ -24,7 +24,7 @@ const SEO = ({ title, description }) => {
     siteTitle,
     siteURL,
     image,
-    twitterUsernme,
+    twitterUsername,
   } = site.siteMetadata
 
   return (
@@ -32,7 +32,7 @@ const SEO = ({ title, description }) => {
       <meta name="description" content={description || siteDesc} />
       <meta name="image" content={image} />
       <meta mame="twitter:card" content="summary_large_image" />
-      <meta mame="twitter:creator" content={twitterUsernme} />
+      <meta mame="twitter:creator" content={twitterUsername} />
       <meta mame="twitter:title" content={siteTitle} />
       <meta mame="twitter:description" content={siteDesc} />
       <meta mame="twitter:image" content={`${siteURL}${image}`} />

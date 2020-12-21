@@ -40,26 +40,50 @@ Variables
   /* ORANGE THEME */
 
   /* dark shades of primary color*/
-  --clr-primary-1: hsl(22, 91%, 17%);
+  /* --clr-primary-1: hsl(22, 91%, 17%);
   --clr-primary-2: hsl(24, 84%, 25%);
   --clr-primary-3: hsl(24, 81%, 29%);
   --clr-primary-4: hsl(24, 77%, 34%);
-  --clr-primary-5: #ba6c2c;
+  --clr-primary-5: #ba6c2c; */
   /* lighter shades of primary color */
-  --clr-primary-6: hsl(27, 57%, 50%);
+  /* --clr-primary-6: hsl(27, 57%, 50%);
   --clr-primary-7: hsl(27, 65%, 59%);
   --clr-primary-8: hsl(27, 80%, 74%);
   --clr-primary-9: hsl(29, 94%, 87%);
-  --clr-primary-10: hsl(29, 100%, 94%);
+  --clr-primary-10: hsl(29, 100%, 94%); */
   /* darkest grey - used for headings */
-  --clr-grey-1: hsl(29, 61%, 16%);
+  /* --clr-grey-1: hsl(29, 61%, 16%);
   --clr-grey-3: hsl(29, 35%, 30%);
-  --clr-grey-4: hsl(29, 28%, 39%);
+  --clr-grey-4: hsl(29, 28%, 39%); */
   /* grey used for paragraphs */
-  --clr-grey-5: hsl(27, 22%, 49%);
+  /* --clr-grey-5: hsl(27, 22%, 49%);
   --clr-grey-8: hsl(24, 31%, 80%);
   --clr-grey-9: hsl(23, 32%, 89%);
-  --clr-grey-10: hsl(26, 33%, 96%);
+  --clr-grey-10: hsl(26, 33%, 96%); */
+
+  /* ORANGE THEME */
+
+  /* dark shades of primary color*/
+  --clr-primary-1: hsl(266, 91%, 17%);
+  --clr-primary-2: hsl(266, 84%, 25%);
+  --clr-primary-3: hsl(271, 81%, 29%);
+  --clr-primary-4: hsl(266, 77%, 34%);
+  --clr-primary-5: #752cba;
+  /* lighter shades of primary color */
+  --clr-primary-6: hsl(268, 57%, 50%);
+  --clr-primary-7: hsl(281, 65%, 59%);
+  --clr-primary-8: hsl(263, 80%, 74%);
+  --clr-primary-9: hsl(271, 94%, 87%);
+  --clr-primary-10: hsl(267, 100%, 94%);
+  /* darkest grey - used for headings */
+  --clr-grey-1: hsl(271, 61%, 16%);
+  --clr-grey-3: hsl(276, 35%, 30%);
+  --clr-grey-4: hsl(278, 28%, 39%);
+  /* grey used for paragraphs */
+  --clr-grey-5: hsl(268, 22%, 49%);
+  --clr-grey-8: hsl(276, 31%, 80%);
+  --clr-grey-9: hsl(280, 32%, 89%);
+  --clr-grey-10: hsl(274, 33%, 96%);
 
   /* RED THEME */
 

@@ -31,7 +31,7 @@ const Hero = () => {
           <div>
             <div className="underline">
               <h1>i'm Honorio</h1>
-              <h4>full-stack software engineer</h4>
+              <h4>Site Reliability/DevOps Engineer</h4>
               <Link to="/contact" className="btn">
                 contact me
               </Link>
